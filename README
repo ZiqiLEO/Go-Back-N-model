@@ -1,0 +1,8 @@
+Name: Ziqi Zhang
+ID: 20602436
+The project is in Java
+There are 5 files in total:
+packet.java sender.java receiver.java Makefile README
+How to compile:
+make
+
